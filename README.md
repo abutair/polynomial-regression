@@ -1,2 +1,1 @@
-# polynomial-regression
-with python for udemy course 
+Implementation of Polynomial Regression with python 
